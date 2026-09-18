@@ -120,4 +120,4 @@ De forma individual, heu de donar resposta a les següents preguntes basant-se e
 
 - INCIBE. Copias de seguridad. Una guía de aproximación para el empresario (PDF). [Enllaç](https://www.incibe.es/sites/default/files/contenidos/guias/guia-copias-de-seguridad.pdf)
 
-- Xataka. * Backup 3 - 2 - 1, el método definitivo para mantener a salvo tus datos* (Youtube) 2017. [Enllaç](https://youtu.be/PM_M4Iz6I4o?si=F7DRyDDTZE3hjWn8)
+- Xataka. *Backup 3 - 2 - 1, el método definitivo para mantener a salvo tus datos* (Youtube) 2017. [Enllaç](https://youtu.be/PM_M4Iz6I4o?si=F7DRyDDTZE3hjWn8)
